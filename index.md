@@ -1,31 +1,32 @@
-## Portfolio
+## Tutorials
+## Quantitative Datenanalyse und Maschinelles Lernen
 
 ---
 
-### Category Name 1 
+### R
 
-[Project 1 Title](/sample_page)
+[Explorative Datenanalyse (tidyverse): Einführung](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Klassifizierung mit mlr3: Einführung](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+---
+
+### Python
+
+[Text Mining: Grundlagen](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Explorative Datenanalyse: Datenaufbereitung](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+[Explorative Datenanalyse: Visualisierung und Regression](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
