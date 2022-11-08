@@ -1,6 +1,7 @@
 ## Tutorials
-## *Quantitative Datenanalyse und* 
-## *Maschinelles Lernen*
+
+### *Quantitative Datenanalyse und* 
+### *Maschinelles Lernen*
 
 ---
 
@@ -8,7 +9,7 @@
 
 [Explorative Datenanalyse (tidyverse): Einführung](tutorials/r_eda_tidyverse.html)
 
-Einführung in die explorative Datenanalyse (Selektion, Filtern, Aggregierung) mit den Tidyverse-Bibliotheken.
+Jede Datenanalyse beginnt mit der Exploration der Daten. Dieses Tutorial gibt eine kurze Einführung in die explorative Datenanalyse (Selektion, Filtern, Aggregierung) mit den Tidyverse-Bibliotheken in R.
 
 [Klassifizierung mit mlr3: Einführung](tutorials/r_klassifizierung_mlr3_einfuehrung.html)
 
