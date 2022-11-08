@@ -5,7 +5,7 @@
 
 ### R
 
-[Explorative Datenanalyse (tidyverse): Einführung](/r_eda_tidyverse.html)
+[Explorative Datenanalyse (tidyverse): Einführung](tutorials/r_eda_tidyverse.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
