@@ -1,3 +1,5 @@
+## Über mich
+
 **Experte für quantitative Datenanalyse (Advanced/Predictive Analytics)**
 - Langjährige Erfahrung mit explorativer Datenanalyse und statistischen Auswertungen (Regressions- und Klassifikationsmodellen)
 - Mehrjährige Erfahrung mit der Erstellung und Evaluation von Machine Learning-Workflows
