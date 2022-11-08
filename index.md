@@ -7,9 +7,11 @@
 ### R
 
 [Explorative Datenanalyse (tidyverse): Einführung](tutorials/r_eda_tidyverse.html)
+
 Einführung in die explorative Datenanalyse (Selektion, Filtern, Aggregierung) mit den Tidyverse-Bibliotheken.
 
 [Klassifizierung mit mlr3: Einführung](tutorials/r_klassifizierung_mlr3_einfuehrung.html)
+
 mlr3 ist eine R-Bibliothek für das maschinelle Lernen. Dieses Tutorial gibt eine kurze Einführung in die Benutzung von mlr3 für Klassifizierungsprobleme.
 
 ---
