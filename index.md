@@ -8,10 +8,8 @@
 [Explorative Datenanalyse (tidyverse): Einführung](tutorials/r_eda_tidyverse.html)
 Einführung in die explorative Datenanalyse (Selektion, Filtern, Aggregierung) mit den Tidyverse-Bibliotheken.
 
----
 [Klassifizierung mit mlr3: Einführung](tutorials/r_klassifizierung_mlr3_einfuehrung.html)
 mlr3 ist eine R-Bibliothek für das maschinelle Lernen. Dieses Tutorial gibt eine kurze Einführung in die Benutzung von mlr3 für Klassifizierungsprobleme.
-
 
 ---
 
@@ -20,7 +18,6 @@ mlr3 ist eine R-Bibliothek für das maschinelle Lernen. Dieses Tutorial gibt ein
 [Text Mining: Grundlagen](tutorials/python_tm_basics.html)
 Anhand eines kurzen Beispiels erläutert dieses Tutorial die Grundlagen von Text Mining (Tokenization, Stemming / Lemmatization).
 
----
 [Explorative Datenanalyse: Datenaufbereitung](tutorials/python_eda_1.html)
 Dieses Tutorial ist das erste eine Serie zur explorativen Datenanalyse in Python (Pandas). Erläutert werden Filtern, das Re-Kodieren von Variablen und Diskretisierung (binning). 
 
